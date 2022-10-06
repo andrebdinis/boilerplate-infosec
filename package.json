@@ -7,8 +7,9 @@
 		"start": "node myApp.js"
 	},
 	"dependencies": {
+		"bcrypt": "^5.1.0",
 		"express": "^4.14.0",
-		"helmet": "3.21.3"
+		"helmet": "^3.21.3"
 	},
 	"keywords": [
 		"node",
